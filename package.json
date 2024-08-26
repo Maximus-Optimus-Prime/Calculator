@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mathjs": "^13.1.0"
+  },
+  "devDependencies": {
+    "@types/mathjs": "^9.4.1"
+  }
+}
